@@ -1,0 +1,4 @@
+date
+echo "Testing commands"
+useradd Syed
+
