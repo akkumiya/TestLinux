@@ -1,0 +1,7 @@
+echo "Job from git"
+date
+cal 
+who
+ls -l
+pwd
+id
